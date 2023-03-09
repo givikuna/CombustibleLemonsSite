@@ -1,2 +1,3 @@
 # CombustibleLemonsSite
-YEAHH
+
+A website for Combustible Lemons
