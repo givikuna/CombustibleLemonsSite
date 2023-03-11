@@ -1,0 +1,1 @@
+contains all the written data (like text files & JSON) that can be utilised by the site
